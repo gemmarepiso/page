@@ -1,5 +1,4 @@
-
- theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-minimal
 title: [Gemma Repiso-Puigdelliura]
 description: [PhD Student Spanish and Portuguese grepisopu at ucla.edu]
 show_downloads: false
