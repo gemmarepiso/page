@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Gemma Repiso-Puigdelliura]
-description: [PhD Student Spanish and Portuguese grepisopu at ucla.edu]
+description: [PhD Student Spanish and Portuguese  grepisopu@ucla.edu]
 show_downloads: false
 logo: "assets/images/biogemma.jpg"
-minimal_mistakes_skin: "mint" 
 social-network-links:
   rss: true
   email: "grepisopu@ucla.edu"
