@@ -2,9 +2,11 @@
 
 # About me
 
- I am interested in modeling language transfer in child and adult heritage phonology. I am currently working on empty onset repair strategies, voiced palatal obstruents and Spanish rhoticity.
+ I am interested in modeling language transfer in child and adult heritage phonology. I am currently working on empty onset repair strategies, voiced palatal obstruents and Spanish rhoticity. 
 
 I have [taught](./teaching.md) courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
+
+Download my [CV] (https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Repiso_CV_Feb20.pdf?raw=true).
 
 ## Publications
 
