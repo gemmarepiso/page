@@ -6,7 +6,7 @@
 
 I have [taught](./teaching.md) courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
 
-Download my [CV] (https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Repiso_CV_Feb20.pdf?raw=true).
+Download my [CV] (https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Repiso_CV_Feb%20.pdf?raw=true)
 
 ## Publications
 
