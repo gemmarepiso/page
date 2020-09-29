@@ -14,10 +14,9 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
 
 Kim, J. Y., & **Repiso-Puigdelliura, G**. (2020). Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap. *Phonetica, 77*(1), 55-80. https://doi.org/10.1159/000501188
 
+Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronich, R. (2020). Característiques de l’alumnat de català L2 fora del domini lingüístic. *Treballs de Sociolingüística* (30), 39-55. hhtps://doi.org/10.2436/20.2504.01.159
+
 **Repiso i Puigdelliura, G.**, & Fernández-Villanueva, M. (2016). Analysing German teachers’ identities through multimodal and multilingual use. In M. Fernandez-Villanueva & K. Jungbluth (Eds.), *Beyond Language Boundaries: Multimodal Use in Multilingual Contexts*. Berlin: de Gruyter Mouton. https://doi.org/10.1515/9783110458817-007
-
-
-Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronich, R. (in press). Característiques de l’alumnat de català L2 fora del domini lingüístic. *Treballs de Sociolingüística*
 
 
 ## Presentations
