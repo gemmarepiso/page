@@ -5,7 +5,7 @@ show_downloads: false
 logo: "assets/images/biogemma.jpg"
 social-network-links:
   rss: true
-  email: "grepisopu@ucla.edu"
+  email: "grepisopu at ucla.edu"
 layout: sidebar
 style: light
 
