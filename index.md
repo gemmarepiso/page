@@ -2,7 +2,7 @@
 
 # About me
 
-I am an applied linguist who is working on the phonetics and phonology of Spanish heritage speakers. My current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
+I am a Ph.D. student at the UCLA Spanish and Portuguese Department, who is working on the phonetics and phonology of Spanish heritage speakers. My current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
 
 I have [taught](./teaching.md) courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
 
