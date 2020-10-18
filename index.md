@@ -12,7 +12,7 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
 
 ## Publications
 
-**Repiso-Puigdelliura, G** & Kim, J.Y. (in press). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: language and Cognition*.
+**Repiso-Puigdelliura, G** & Kim, J.Y. (in press). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: Language and Cognition*.
 
 Kim, J. Y., & **Repiso-Puigdelliura, G**. (2020). Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap. *Phonetica, 77*(1), 55-80. https://doi.org/10.1159/000501188
 
