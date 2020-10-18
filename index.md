@@ -24,6 +24,8 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 ## Presentations
 
  **Child heritage speakers**
+ 
+ 
  Repiso-Puigdelliura Gemma. (2020). Spanish Resyllabification in Child and Adult Heritage Speakers. Current Approaches to Spanish and Portuguese Second Language Phonology, San José, USA.
 [slides](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/resyllabification%20(67).pdf?raw=true)
 
