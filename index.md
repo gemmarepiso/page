@@ -4,7 +4,7 @@
 
 I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department, who is working on the phonetics and phonology of Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. My current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
 
-I have [taught](./teaching.md) courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners (with the support of an UCOP ILTI grant).
+Check out my teaching [site](./teaching.md). I have taught introductory courses to linguistics, Spanish courses for heritage speakers, L2 Catalan courses, and I have designed hybrid classes for L2 Catalan learners (with the support of an UCOP ILTI grant).
 
 Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
 
