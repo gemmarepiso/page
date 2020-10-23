@@ -19,7 +19,9 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
 - I have recently investigated **Spanish trill production in child heritage speakers and adult heritage speakers**. We found that adult heritage speakers present a higher rate of target-like trills and more occlusions than children. Children produced more tap variants and adults more variants with frication. In addition, trills produced are with more occlusions word-medially than word-initially. This is joint work with Ji Young Kim. The results of this study will appear soon in *Bilingualism: Language and Cognition*. Check out the [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Abstract%20R-atics.pdf?raw=true)
  from the most recent presentation at *r-atics-6*
  
- 
+ ##### Productions of phonological trills in Spanish heritage speakers
+
+![trills](/assets/images/trills.png){:height="50%" width="50%"}
  
  - I am also interested in heritage speakers' production of the **Spanish palatal obstruent /ʝ/**. We found that Spanish heritage speakers show an overall high rate of approximant realizations (/j/) and that preceding vowel height and stress have an effect on degree of constriction of the voiced palatal obstruent. Interesteingly, we did not find any correlation with language dominance. This is joint work with Isabel Benvenuti and Ji Young Kim. The results of this study will be published in the *Heritage Language Journal* and have been presentend at the HLS 2019. Check out the [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true).
  
