@@ -3,6 +3,8 @@ title: [Gemma Repiso-Puigdelliura]
 #theme: jekyll-theme-minimal
 description: [ grepisopu at ucla.edu]
 show_downloads: false
+baseurl: /blob/master
+url: https://gemmarepiso.github.io/
 #logo: "assets/images/biogemma.jpg"
 #social-network-links:
 #  rss: true
