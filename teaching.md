@@ -17,7 +17,10 @@ Introductory Spanish for Heritage Speakers: Spring 2018
  
  Elementary Spanish: Fall 2015 
 
-### UCLA, Sole Instructor (Teaching Associate)
+### UCLA, Sole Instructor 
+
+M35: Spanish, Portuguese and the Nature of Language: Summer 2020
+
 Hybrid Catalan Language and Culture I : Fall 2018  Winter 2019
 
 Catalan Language and Culture II: Spring 2019
@@ -27,6 +30,15 @@ Catalan Language and Culture II: Spring 2019
 Repiso-Puigdelliura, Gemma. (2019). How Online Teaching Can Enrich Research, Improve Teaching, and Increase Enrollments: The University of California Experience. Special Session at the Modern Language Association Convention, Chicago, IL. 
 
 Repiso-Puigdelliura, Gemma. (2018). Catalan Hybrid Course: Pedagogical Adjustments and Opportunities, Course Sharing UC Dean of Humanities, UCLA, CA.
+
+
+
+
+### Guest Presentations and workshops
+
+
+Presentation fo findings of resyllabification in SPAN100A Introduction to Study of Spanish Grammar: Phonology and Morphology, October 20th 2020
+
 
 ### Service
 
