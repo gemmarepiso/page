@@ -1,5 +1,5 @@
 
-
+<font size="1"> 
 
 
 I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department, who is working on the phonetics and phonology of Spanish heritage speakers. My current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
@@ -55,3 +55,6 @@ Kim Ji Young, Repiso-Puigdelliura Gemma.(2018). Phonetic and Phonological Analys
 Kim Ji Young, Repiso-Puigdelliura Gemma.(2017). Use of continuous measures in examining heritage speakers’ production of Spanish alveolar tap /ɾ/, Hispanic Linguistics Symposium, Lubbock, USA.
 
 Kim Ji Young, Repiso-Puigdelliura Gemma. (2017). Can you roll your rhotics?, New Ways of Analyzing Variation, Madison, IL
+
+
+</font> 
