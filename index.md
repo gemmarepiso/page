@@ -8,7 +8,7 @@ I have [taught](./teaching.md) courses for Spanish heritage speakers and designe
 
 Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
 
-##Projects
+## Projects
 
 - My dissertation project examines **transfer of glottal stop epenthesis in Spanish child heritage speakers** in word external consonant vowel sequences (e.g., un ojo). While resyllabification is the most common strategy to repair syllables without onsets in Spanish (e.g., \[u.no.xo\]), English optionally allows for glottal stop- epenthesis preceding the word-initial vowel (e.g., \[ən.ʔɜg\]). Transfer of glottal stop epenthesis in Spanish would look like \[un.ʔo.xo\]. Preliminary results will be presented at the 45th Boston University Conference on Language Acquisition and published at the *International Journal of Bilingualism*. Stay tuned for that!
 
