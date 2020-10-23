@@ -2,13 +2,15 @@
 
 
 
-I am a Ph.D. student at the UCLA Spanish and Portuguese Department, who is working on the phonetics and phonology of Spanish heritage speakers. My current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
+I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department, who is working on the phonetics and phonology of Spanish heritage speakers. My current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
 
 I have [taught](./teaching.md) courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
 
 Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
 
+##Projects
 
+- My dissertation project examines **transfer of glottal stop epenthesis in Spanish child heritage speakers** in word external consonant vowel sequences (e.g., un ojo). While resyllabification is the most common strategy to repair syllables without onsets in Spanish (e.g., \[u.no.xo\]), English optionally allows for glottal stop- epenthesis preceding the word-initial vowel (e.g., \[ən.ʔɜg\]). Transfer of glottal stop epenthesis in Spanish would look like \[un.ʔo.xo\]. Preliminary results will be presented at the 45th Boston University Conference on Language Acquisition and published at the *International Journal of Bilingualism*. Stay tuned for that!
 
 ## Refereed publications
 
@@ -44,7 +46,7 @@ Repiso-Puigdelliura Gemma,Kim Ji Young.(2019). The acquisition of the Spanish tr
  Repiso-Puigdelliura Gemma, Benvenuti Isabel, Kim Ji Young . (2019). Heritage Speakers' Production of Palatal Fricatives. Hispanic Linguistics Symposium, El Paso, USA. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true)
 
 
-Kim Ji Young, Repiso-Puigdelliura Gemma (2018). Understanding the Shapes and Meanings of uptalk in heritage speakers of Spanish, Hispanic Linguistics Symposium, Austin, TX.
+Kim Ji Young, Repiso-Puigdelliura Gemma. (2018). Understanding the Shapes and Meanings of uptalk in heritage speakers of Spanish, Hispanic Linguistics Symposium, Austin, TX.
 
 Kim Ji Young, Repiso-Puigdelliura  Gemma.(2018). The Forms and Functions of of Uptalk in Spanish Prosody by Spanish Heritage Speakers in Los Angeles, Heritage Language Conference, Los Angeles, CA.
 
