@@ -26,7 +26,7 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
  
  - I am also interested in heritage speakers' production of the **Spanish palatal obstruent /ʝ/**. We found that Spanish heritage speakers show an overall high rate of approximant realizations (/j/) and that preceding vowel height and stress have an effect on degree of constriction of the voiced palatal obstruent. Interesteingly, we did not find any correlation with language dominance. This is joint work with Isabel Benvenuti and Ji Young Kim. The results of this study will be published in the *Heritage Language Journal* and have been presentend at the HLS 2019. Check out the [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true).
  
- - I have also worked with the **forms and meanings of uptalk in Spanish as a heritage language**. This is joint work with Ji Young Kim. We presented the results of this study at CAPSLaP 2018 and HLS 2017. We are currently working on a manuscript comparing nuclear configurations in Spanish heritage speakers and Spanish speakers residing in Mexico. 
+ - I have also worked with the **forms and meanings of uptalk in Spanish as a heritage language**. This is joint work with Ji Young Kim. We presented the results of this study at CAPSLaP 2018 and HLS 2017. Ongoing work compares nuclear configurations in Spanish heritage speakers and Spanish speakers residing in Mexico. Stay tuned for that!
 
 ## Refereed publications
 
