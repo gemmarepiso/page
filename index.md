@@ -20,7 +20,7 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true)
  from the most recent presentation at *r-atics-6*
  
 
-##### Sample of Spanish heritage spekaers' productions of phonological trills
+##### Sample of Spanish heritage speakeers' productions of phonological trills
 
 ![trills](/assets/images/trills.png)
  
