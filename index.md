@@ -4,7 +4,7 @@
 
 I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. I work on the phonetics and phonology of Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu, and my current projects involve child heritage speakers' production of apico-alveolar trills, resyllabified consonants, and adult heritage speakers' production of rhotics, voiced palatal obstruents and high rising terminals ('uptalk').
 
-Check out my teaching [site](./teaching.md) for a list of courses. 
+Check out my **teaching** [site](./teaching.md) for a list of courses. 
 
 - I have designed hybrid classes for L2 Catalan learners (with the support of an UCOP ILTI grant). 
 - Teaching Catalan as a foreign language has also informed my research. Specifically, I have examined the profiles of L2 Catalan students. This is joint work with Anna Tudela-Isanta, Josep Vidal-Arráez and Ruben Manuel Oronich published in [*Treballs de Sociolingüística*](https://www.raco.cat/index.php/TSC/article/view/374466). A new study on the motivation to learn L2 Catalan has just been accepted by *International Journal of Multilingualism*.
