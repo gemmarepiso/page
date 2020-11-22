@@ -29,7 +29,7 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true) or scroll down for 
 
 ##### Sample of Spanish heritage speakers' productions of phonological trills
 
-![trills](/assets/images/trills2.png)
+```![trills](/assets/images/trills2.png)```
  
  - I am also interested in heritage speakers' production of the **Spanish palatal obstruent /ʝ/**. We found that Spanish heritage speakers show an overall high rate of approximant realizations (/j/) and that preceding vowel height and stress have an effect on degree of constriction of the voiced palatal obstruent. Interesteingly, we did not find any correlation with language dominance. This is joint work with Isabel Benvenuti and Ji Young Kim. The results of this study will be published in the *Heritage Language Journal* and have been presentend at the HLS 2019. Check out the [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true).
  
