@@ -1,4 +1,4 @@
-theme: bulma-clean-theme
+theme: jekyll-theme-cayman
 title: [Gemma Repiso-Puigdelliura]
 #theme: jekyll-theme-minimal
 description: [ grepisopu at ucla.edu]
@@ -10,7 +10,7 @@ show_downloads: false
 #  rss: true
 #  email: "grepisopu at ucla.edu"
 #layout: sidebar
-#style: lightjekyll-theme-cayman
+#style: lightjekyll-theme-caymanbulma-clean-theme
 
 
 # Collections
