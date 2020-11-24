@@ -61,7 +61,7 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 
 ## Presentations
 
- **Child heritage speakers**
+ **Child phonological grammars**
  
  
  Repiso-Puigdelliura Gemma. (2020). Spanish Resyllabification in Child and Adult Heritage Speakers. Current Approaches to Spanish and Portuguese Second Language Phonology, San José, USA.
@@ -71,7 +71,7 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 
 Repiso-Puigdelliura Gemma,Kim Ji Young.(2019). The acquisition of the Spanish trill in child and adult heritage speakers, r-atics 6, Paris, France. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Abstract%20R-atics.pdf)
 
- **Adult heritage speakers**
+ **Adult phonological grammars**
 
  Repiso-Puigdelliura Gemma, Benvenuti Isabel, Kim Ji Young . (2019). Heritage Speakers' Production of Palatal Fricatives. Hispanic Linguistics Symposium, El Paso, USA. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true)
 
