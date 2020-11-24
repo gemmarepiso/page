@@ -12,8 +12,8 @@ Check out my **teaching** [site](./teaching.md) for a list of courses.
 ## Current and upcoming events
 
 - Paper in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
-- Poster presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood
-- Ultrasound studies on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
+- Poster presented at the *44th BUCLD* - [Repairing Onsetless Syllables during Late Childhood](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Submission-160_poster.pdf?raw=true)
+- Ultrasound study on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
 - Poster presented at the *2020 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
 
 
