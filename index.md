@@ -2,10 +2,18 @@
 
 
 
-I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. I work on the phonetics and phonology of Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. I am interested in the following research questions:
-- How does language develop in future heritage speakers (i.e., early sequential or simultaneous bilingual grammars)? More specifically, how can phonological theory inform cross-linguistic transfer in the speech production of heritage speakers?
-- What are the vulnerable areas of phonological development in child and adult heritage speakers? For instance, are phonemic contrasts maintained in heritage speech production? 
-- What are the factors that have an effect on cross-linguistic transfer during childhood and adulthood? What is the effect of access to a bilingual education (i.e., relative degree of literacy) and amount of input to the heritae language?
+I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. My primary area of research is the development of bilingual child grammars. In addition, I work on the phonetics and phonology of adult Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. 
+
+## Current and upcoming events
+
+- Paper in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism:Language and Cognition*
+- Poster presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood
+- Ultrasound studies on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
+- Poster presented at the *2020 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
+
+
+
+
 
 Check out my **teaching** [site](./teaching.md) for a list of courses. 
 
