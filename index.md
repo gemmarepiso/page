@@ -45,9 +45,9 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true) or scroll down for 
 ## Refereed publications
 
 
-**Repiso-Puigdelliura, G**., Benvenuti, I., & Kim, J.Y. (under review). Is majority language influence conditioned by orthography? The case of Spanish heritage speakers' realization of the Spanish voiced palatal obstruent. *Heritage Language Journal*.
+**Repiso-Puigdelliura, G**., Benvenuti, I., & Kim, J.Y. (accepted). Is majority language influence conditioned by orthography? The case of Spanish heritage speakers' realization of the Spanish voiced palatal obstruent. *Heritage Language Journal*.
 
-**Repiso-Puigdelliura, G**. (under review). Empty Onset Repairs in the Semi-Spontaneous Speech of Spanish Child and Adult Heritage Speakers. *International Journal of Bilingualism*.
+**Repiso-Puigdelliura, G**. (accepted). Empty Onset Repairs in the Semi-Spontaneous Speech of Spanish Child and Adult Heritage Speakers. *International Journal of Bilingualism*.
 
 **Repiso-Puigdelliura, G**., & Kim, J.Y. (in press). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: Language and Cognition*.
 
