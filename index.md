@@ -4,9 +4,14 @@
 
 I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. My primary area of research is the development of bilingual child grammars. In addition, I work on the phonetics and phonology of adult Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. 
 
+Check out my **teaching** [site](./teaching.md) for a list of courses. 
+
+- I have designed hybrid classes for L2 Catalan learners (with the support of an UCOP ILTI grant). 
+- Teaching Catalan as a foreign language has also informed my research. Specifically, I have examined the profiles of L2 Catalan students. This is joint work with Anna Tudela-Isanta, Josep Vidal-Arráez and Ruben Manuel Oronich published in [*Treballs de Sociolingüística*](https://www.raco.cat/index.php/TSC/article/view/374466). A new study on the motivation to learn L2 Catalan has just been accepted by *International Journal of Multilingualism*.
+
 ## Current and upcoming events
 
-- Paper in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism:Language and Cognition*
+- Paper in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
 - Poster presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood
 - Ultrasound studies on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
 - Poster presented at the *2020 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
@@ -15,10 +20,7 @@ I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. My primary
 
 
 
-Check out my **teaching** [site](./teaching.md) for a list of courses. 
 
-- I have designed hybrid classes for L2 Catalan learners (with the support of an UCOP ILTI grant). 
-- Teaching Catalan as a foreign language has also informed my research. Specifically, I have examined the profiles of L2 Catalan students. This is joint work with Anna Tudela-Isanta, Josep Vidal-Arráez and Ruben Manuel Oronich published in [*Treballs de Sociolingüística*](https://www.raco.cat/index.php/TSC/article/view/374466). A new study on the motivation to learn L2 Catalan has just been accepted by *International Journal of Multilingualism*.
 
 
 Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true) or scroll down for information on recent projects.
