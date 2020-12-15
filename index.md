@@ -45,11 +45,8 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true) or scroll down for 
 ## Refereed publications
 
 
-**Repiso-Puigdelliura, G**., Benvenuti, I., & Kim, J.Y. (accepted). Is majority language influence conditioned by orthography? The case of Spanish heritage speakers' realization of the Spanish voiced palatal obstruent. *Heritage Language Journal*.
 
-**Repiso-Puigdelliura, G**. (accepted). Empty Onset Repairs in the Semi-Spontaneous Speech of Spanish Child and Adult Heritage Speakers. *International Journal of Bilingualism*.
-
-**Repiso-Puigdelliura, G**., & Kim, J.Y. (in press). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: Language and Cognition*.
+**Repiso-Puigdelliura, G**., & Kim, J.Y. (2020). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: Language and Cognition*.https://doi.org/10.1017/S1366728920000668
 
 Kim, J. Y., & **Repiso-Puigdelliura, G**. (2020). Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap. *Phonetica, 77*(1), 55-80. https://doi.org/10.1159/000501188
 
@@ -58,6 +55,11 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 
 **Repiso i Puigdelliura, G.**, & Fernández-Villanueva, M. (2016). Analysing German teachers’ identities through multimodal and multilingual use. In M. Fernandez-Villanueva & K. Jungbluth (Eds.), *Beyond Language Boundaries: Multimodal Use in Multilingual Contexts*. Berlin: de Gruyter Mouton. https://doi.org/10.1515/9783110458817-007
 
+## Manuscripts under review
+
+**Repiso-Puigdelliura, G**., Benvenuti, I., & Kim, J.Y. (accepted). Is majority language influence conditioned by orthography? The case of Spanish heritage speakers' realization of the Spanish voiced palatal obstruent. *Heritage Language Journal*.
+
+**Repiso-Puigdelliura, G**. (accepted). Empty Onset Repairs in the Semi-Spontaneous Speech of Spanish Child and Adult Heritage Speakers. *International Journal of Bilingualism*.
 
 ## Presentations
 
