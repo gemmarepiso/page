@@ -2,7 +2,7 @@
 
 
 
-I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. My primary area of research is the development of bilingual child grammars. In addition, I work on the phonetics and phonology of adult Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. 
+I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. My primary areas of research are first language acquisition and the development of bilingual child grammars. In addition, I work on the phonetics and phonology of adult Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. 
 
 Check out my **teaching** [site](./teaching.md) for a list of courses. 
 
