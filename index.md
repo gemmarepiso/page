@@ -5,7 +5,7 @@
 I am a Ph.D. candidate at the UCLA Spanish and Portuguese Department. My primary areas of research are first language acquisition and the development of bilingual child grammars. In addition, I work on the phonetics and phonology of adult Spanish heritage speakers. I am advised by Ji Young Kim and Victoria Mateu. 
 
 Check out my **teaching** [site](./teaching.md) for a list of courses. 
-
+- I will be teaching a course on Language Acquisition at San Diego State University in Spring 2021
 - I have designed hybrid classes for L2 Catalan learners (with the support of an UCOP ILTI grant). 
 - Teaching Catalan as a foreign language has also informed my research. Specifically, I have examined the profiles of L2 Catalan students. This is joint work with Anna Tudela-Isanta, Josep Vidal-Arráez and Ruben Manuel Oronich published in [*Treballs de Sociolingüística*](https://www.raco.cat/index.php/TSC/article/view/374466). A new study on the motivation to learn L2 Catalan has just been accepted by *International Journal of Multilingualism*.
 
@@ -65,6 +65,9 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 
  **Child phonological grammars**
  
+ Repiso-Puigdelliura, Gemma. (January, 2021). Lexically-Conditioned Child Acquisition of English Empty Onset Repairs. LSA 2021 Virtual Annual Meeting, Online/USA. 
+ 
+ Repiso-Puigdelliura, Gemma. (November, 2020). Repairing Onsetless Syllables during Late Childhood. 45th Boston University Conference on Language Development, Online/ Boston, USA.
  
  Repiso-Puigdelliura Gemma. (2020). Spanish Resyllabification in Child and Adult Heritage Speakers. Current Approaches to Spanish and Portuguese Second Language Phonology, San José, USA.
 [slides](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/resyllabification%20(67).pdf?raw=true)
@@ -74,6 +77,11 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 Repiso-Puigdelliura Gemma,Kim Ji Young.(2019). The acquisition of the Spanish trill in child and adult heritage speakers, r-atics 6, Paris, France. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Abstract%20R-atics.pdf)
 
  **Adult phonological grammars**
+
+ Kim, Ji Young, Matthew Faytak, Gemma Repiso-Puigdelliura, and Erin Mauffray. (December, 2020). Articulation of non-normative variants of L1 and L2 Spanish trill /r/. Acoustics Virtually Everywhere 179th Meeting The Acoustical Society of America, Online/USA. 
+
+
+Mauffray, Erin, Matthew Faytak, Ji Young Kim, and Gemma Repiso-Puigdelliura. (December, 2020). Lateral Articulation of the Spanish trill /r/. Acoustics Virtually Everywhere 179th Meeting The Acoustical Society of America, Online/USA. 
 
  Repiso-Puigdelliura Gemma, Benvenuti Isabel, Kim Ji Young . (2019). Heritage Speakers' Production of Palatal Fricatives. Hispanic Linguistics Symposium, El Paso, USA. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true)
 
