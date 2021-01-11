@@ -65,9 +65,9 @@ Tudela-Isanta, A., Vidal-Arráez, J., **Repiso-Puigdelliura, G.**, Manuel-Oronic
 
  **Child phonological grammars**
  
- Repiso-Puigdelliura, Gemma. (January, 2021). Lexically-Conditioned Child Acquisition of English Empty Onset Repairs. LSA 2021 Virtual Annual Meeting, Online/USA. 
+ Repiso-Puigdelliura, Gemma. (January, 2021). Lexically-Conditioned Child Acquisition of English Empty Onset Repairs. LSA 2021 Virtual Annual Meeting, Online/USA.[poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/LSA_2021_poster_GRPwebsite.pdf?raw=true)
  
- Repiso-Puigdelliura, Gemma. (November, 2020). Repairing Onsetless Syllables during Late Childhood. 45th Boston University Conference on Language Development, Online/ Boston, USA.
+ Repiso-Puigdelliura, Gemma. (November, 2020). Repairing Onsetless Syllables during Late Childhood. 45th Boston University Conference on Language Development, Online/ Boston, USA.[poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Submission-160_poster.pdf?raw=true)
  
  Repiso-Puigdelliura Gemma. (2020). Spanish Resyllabification in Child and Adult Heritage Speakers. Current Approaches to Spanish and Portuguese Second Language Phonology, San José, USA.
 [slides](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/resyllabification%20(67).pdf?raw=true)
