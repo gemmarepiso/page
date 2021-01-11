@@ -1,6 +1,9 @@
 
 ## Appointments
+### San Diego State University, Lecturer
 
+ Language Acquisition, Spring 2021
+ 
 ### UCLA, Principal Instructor (Lecturership Appointment)
 
 Catalan Language and Culture I : Fall 2015 Winter 2016 Fall 2016
