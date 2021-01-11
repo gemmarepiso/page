@@ -14,7 +14,7 @@ Check out my **teaching** [site](./teaching.md) for a list of courses.
 - [Paper](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/missing-link-in-spanish-heritage-trill-production/2EEF354237A02A623B914F1AA11CD595) in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
 - [Poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Submission-160_poster.pdf?raw=true) presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood 
 - Ultrasound study on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
-- [Poster] presented at the *2021 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
+- [Poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/LSA_2021_poster_GRPwebsite.pdf?raw=true) presented at the *2021 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
 
 
 
