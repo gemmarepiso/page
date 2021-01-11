@@ -10,11 +10,11 @@ Check out my **teaching** [site](./teaching.md) for a list of courses.
 - Teaching Catalan as a foreign language has also informed my research. Specifically, I have examined the profiles of L2 Catalan students. This is joint work with Anna Tudela-Isanta, Josep Vidal-Arráez and Ruben Manuel Oronich published in [*Treballs de Sociolingüística*](https://www.raco.cat/index.php/TSC/article/view/374466). A new study on the motivation to learn L2 Catalan has just been accepted by *International Journal of Multilingualism*.
 
 ## Current and upcoming events
-
-- Paper in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
-- Poster presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood [poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Submission-160_poster.pdf?raw=true)
+- I will be teaching a course on Language Acquisition at San Diego State University in Spring 2021
+- [Paper](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/missing-link-in-spanish-heritage-trill-production/2EEF354237A02A623B914F1AA11CD595) in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
+- [Poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Submission-160_poster.pdf?raw=true) presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood 
 - Ultrasound study on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
-- Poster presented at the *2020 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
+- [Poster] presented at the *2021 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
 
 
 
