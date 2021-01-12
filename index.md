@@ -11,7 +11,8 @@ Check out my **teaching** [site](./teaching.md) for a list of courses.
 
 ## Current and upcoming events
 - I will be teaching a course on Language Acquisition at San Diego State University in Spring 2021
-- [Paper](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/missing-link-in-spanish-heritage-trill-production/2EEF354237A02A623B914F1AA11CD595) in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
+- [Paper](https://www.mdpi.com/2226-471X/6/1/13)on the production of uptalk in Heritage Spanish in collaboration with Ji Young Kim.
+- [Paper](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/missing-link-in-spanish-heritage-trill-production/2EEF354237A02A623B914F1AA11CD595) on the acquisition of the Spanish trill in collaboration with Ji Young Kim on child and adult Spanish trill production in *Bilingualism: Language and Cognition*
 - [Poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/Submission-160_poster.pdf?raw=true) presented at the *44th BUCLD* - Repairing Onsetless Syllables during Late Childhood 
 - Ultrasound study on Spanish trill production in collaboration with Ji Young Kim, Erin Mauffray and Matt Faytak to be presented at *Acoustics Virtually Everywhere*
 - [Poster](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/LSA_2021_poster_GRPwebsite.pdf?raw=true) presented at the *2021 LSA* on lexically-conditioned acquisition of between-word junctures in English monolingual grammars.
@@ -45,8 +46,9 @@ Download my [CV](assets/images/Repiso_CV_Feb20.pdf?raw=true) or scroll down for 
 ## Refereed publications
 
 
+Kim, J.Y., & **Repiso-Puigdelliura**, G. Keeping a Critical Eye on Majority Language Influence: The Case of Uptalk in Heritage Spanish. Languages 2021, 6, 13.
 
-**Repiso-Puigdelliura, G**., & Kim, J.Y. (2020). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: Language and Cognition*.https://doi.org/10.1017/S1366728920000668
+**Repiso-Puigdelliura, G**. & Kim, J.Y. (2020). The Missing Link in Spanish Heritage Trill Production. *Bilingualism: Language and Cognition*.https://doi.org/10.1017/S1366728920000668
 
 Kim, J. Y., & **Repiso-Puigdelliura, G**. (2020). Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap. *Phonetica, 77*(1), 55-80. https://doi.org/10.1159/000501188
 
